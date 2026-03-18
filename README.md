@@ -1,2 +1,2 @@
 # gitbrunchmain
-This is a main brunch for developer
+This is a main brunch for mobile and web developer
